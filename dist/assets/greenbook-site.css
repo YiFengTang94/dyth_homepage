@@ -1,6 +1,6 @@
 :root {
-  --ymsh-blue: #0052d9;
-  --ymsh-ink: #17202a;
+  --dyth-blue: #0052d9;
+  --dyth-ink: #17202a;
 }
 
 html { scroll-padding-top: 76px; }
@@ -19,7 +19,7 @@ html { scroll-padding-top: 76px; }
   border-radius: 999px;
   background: rgba(255, 255, 255, .92);
   box-shadow: 0 10px 30px rgba(24, 56, 43, .12);
-  color: var(--ymsh-ink);
+  color: var(--dyth-ink);
   font-size: 13px;
   font-weight: 800;
   letter-spacing: .02em;
@@ -29,21 +29,21 @@ html { scroll-padding-top: 76px; }
 }
 
 .site-return::before {
-  content: "山";
+  content: "叠";
   display: grid;
   place-items: center;
   width: 25px;
   height: 25px;
   border-radius: 8px;
-  background: var(--ymsh-blue);
+  background: var(--dyth-blue);
   color: #fff;
   font-size: 12px;
 }
 
 .site-return:hover,
 .site-return:focus-visible {
-  border-color: var(--ymsh-blue);
-  color: var(--ymsh-blue);
+  border-color: var(--dyth-blue);
+  color: var(--dyth-blue);
   transform: translateY(-1px);
   outline: none;
 }

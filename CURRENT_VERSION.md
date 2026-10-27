@@ -1,3 +1,5 @@
+> 上游历史资料：本项目已 fork 为叠意（dyth_homepage），当前入口说明见 [README.html](README.html)。本文中的原公司名称、CloudBase 环境、线上地址与回退路径属于上游项目，不是本项目的发布配置。
+
 # Current rollback version
 
 ## V9
